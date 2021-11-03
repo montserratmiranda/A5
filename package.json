@@ -1,0 +1,17 @@
+{
+  "name": "assignment5",
+  "version": "1.0.0",
+  "description": "Test for A5",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Montserrat Miranda",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "cheerio": "^1.0.0-rc.10",
+    "nodemailer": "^6.7.0",
+    "request": "^2.88.2"
+  }
+}
